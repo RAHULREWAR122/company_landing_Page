@@ -14,7 +14,7 @@
 
 Clone the repo : 
 ```
- 
+ git clone https://github.com/RAHULREWAR122/company_landing_Page.git
 ```
 
 Live Link :
